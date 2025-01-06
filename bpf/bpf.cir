@@ -1,0 +1,14 @@
+.title KiCad schematic
+R2 Net-_R2-Pad1_ OUTPUT 8.2k
+U2 OUTPUT plot_v2
+C2 OUTPUT GND 0.0078u
+v-1 Net-_X1-Pad7_ GND 15
+X1 unconnected-_X1-Pad1_ Net-_R3-Pad2_ Net-_C1-Pad2_ Net-_X1-Pad4_ unconnected-_X1-Pad5_ Net-_R2-Pad1_ Net-_X1-Pad7_ unconnected-_X1-Pad8_ lm_741
+R3 GND Net-_R3-Pad2_ 10k
+R4 Net-_R2-Pad1_ Net-_R3-Pad2_ 10k
+C1 INPUT Net-_C1-Pad2_ 0.0053u
+R1 GND Net-_C1-Pad2_ 12k
+vin1 INPUT GND AC
+v+1 GND Net-_X1-Pad4_ 15
+U1 INPUT plot_v1
+.end
