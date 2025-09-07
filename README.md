@@ -50,5 +50,3 @@ This project involves the design and simulation of a second-order active band-pa
 3. Run the simulation to analyze the filter's performance.
 4. Review the output plots for frequency response and quality factor.
 
-## 📧 Contact
-For queries or feedback, feel free to reach out via [email/contact details].
