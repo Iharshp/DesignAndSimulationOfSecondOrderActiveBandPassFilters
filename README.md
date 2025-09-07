@@ -41,12 +41,4 @@ This project involves the design and simulation of a second-order active band-pa
 - Audio signal processing.
 - Communication systems for signal filtering.
 
-## 🚀 How to Use
-1. Clone this repository:
-   ```bash
-   git clone <repository_url>
-   ```
-2. Open the project in **eSim**.
-3. Run the simulation to analyze the filter's performance.
-4. Review the output plots for frequency response and quality factor.
 
